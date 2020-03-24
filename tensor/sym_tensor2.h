@@ -10,6 +10,7 @@ using std::endl;
 using std::scientific;
 using std::setprecision;
 using std::setw;
+using std::ios_base;
 
 namespace tens{
 
