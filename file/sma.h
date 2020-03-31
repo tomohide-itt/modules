@@ -16,7 +16,6 @@ using std::cerr;
 using std::endl;
 using std::cout;
 using std::cin;
-#include "file.h"
 
 class sma4_color{
 private:
